@@ -1028,11 +1028,10 @@ a.kontakt__detail-value:hover { color: var(--red); }
 }
 
 .footer__logo {
-  height: 60px;
+  height: 70px;
   width: auto;
-  filter: brightness(0) invert(1);
-  opacity: .85;
   margin-bottom: 12px;
+  border-radius: var(--radius-sm);
 }
 
 .footer__tagline {
